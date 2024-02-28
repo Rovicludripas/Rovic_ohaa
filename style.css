@@ -1,0 +1,28 @@
+body {
+    font:Arial;
+    padding:0;
+    margin:0;
+    Background-color:tomato;
+    text-align: center;
+    font-weight: 900;
+}
+
+h1,h2 {
+    text-align: center;
+    color: yellow;
+    margin-top: 100px;
+    margin-buttom; 10px;
+    }
+    
+p{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    }
+    
+    
+    image{
+       width: 20px;
+       height: 290;
+       }
+    
